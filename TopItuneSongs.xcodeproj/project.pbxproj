@@ -1,0 +1,660 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1A2FD09724F8413E003E4B46 /* MockURLSessionDataTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2FD09624F8413E003E4B46 /* MockURLSessionDataTask.swift */; };
+		1A2FD09924F84AA1003E4B46 /* WeatherAppNetworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2FD09824F84AA1003E4B46 /* WeatherAppNetworkTests.swift */; };
+		1A2FD0A324F95956003E4B46 /* MockedViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2FD0A224F95956003E4B46 /* MockedViewModel.swift */; };
+		1A2FD0A524F96026003E4B46 /* ListViewCotrollerTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2FD0A424F96026003E4B46 /* ListViewCotrollerTest.swift */; };
+		1A7ECE9724F9AD4400A9DBAC /* ViewModelTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A7ECE9624F9AD4400A9DBAC /* ViewModelTest.swift */; };
+		1A7ECE9924F9BB5100A9DBAC /* SongTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A7ECE9824F9BB5100A9DBAC /* SongTest.swift */; };
+		1A7ECE9D24F9E5E800A9DBAC /* XMLParsingTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A7ECE9C24F9E5E800A9DBAC /* XMLParsingTest.swift */; };
+		1A7ECEA024F9F13500A9DBAC /* validXml.xml in Resources */ = {isa = PBXBuildFile; fileRef = 1A7ECE9F24F9F13500A9DBAC /* validXml.xml */; };
+		1A8F452924F5BDAB003460B0 /* ItunesAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A8F452824F5BDAB003460B0 /* ItunesAPI.swift */; };
+		1A8F452B24F5CDE0003460B0 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A8F452A24F5CDE0003460B0 /* DetailViewController.swift */; };
+		1A8F452D24F6E6F8003460B0 /* Check Conccectivity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A8F452C24F6E6F8003460B0 /* Check Conccectivity.swift */; };
+		1A8F452F24F6E835003460B0 /* UIAlertView+Display.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A8F452E24F6E834003460B0 /* UIAlertView+Display.swift */; };
+		1A8F453424F6F05E003460B0 /* UIColor+Brand.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8F453324F6F05E003460B0 /* UIColor+Brand.m */; };
+		1A8F453724F703B7003460B0 /* SongsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A8F453624F703B7003460B0 /* SongsViewModel.swift */; };
+		1A8F453A24F70BEC003460B0 /* UIFont+Brand.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8F453924F70BEC003460B0 /* UIFont+Brand.m */; };
+		1A96CC4524F46A9D004CDED6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A96CC4424F46A9D004CDED6 /* AppDelegate.swift */; };
+		1A96CC4924F46A9E004CDED6 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A96CC4824F46A9E004CDED6 /* ListViewController.swift */; };
+		1A96CC4C24F46A9E004CDED6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A96CC4A24F46A9E004CDED6 /* Main.storyboard */; };
+		1A96CC4E24F46AA2004CDED6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A96CC4D24F46AA2004CDED6 /* Assets.xcassets */; };
+		1A96CC5124F46AA2004CDED6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A96CC4F24F46AA2004CDED6 /* LaunchScreen.storyboard */; };
+		1A96CC6D24F46CA3004CDED6 /* ItunesApiGatway.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A96CC6C24F46CA3004CDED6 /* ItunesApiGatway.swift */; };
+		1A96CC7024F46D1E004CDED6 /* UrlSession+DataTaskExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A96CC6F24F46D1E004CDED6 /* UrlSession+DataTaskExtension.swift */; };
+		1A96CC7224F477F2004CDED6 /* Song.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A96CC7124F477F2004CDED6 /* Song.swift */; };
+		1A96CC7624F48D18004CDED6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A96CC7524F48D18004CDED6 /* SceneDelegate.swift */; };
+		1A96CC7A24F4B1B7004CDED6 /* SongTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A96CC7924F4B1B7004CDED6 /* SongTableViewCell.swift */; };
+		1A96CC7C24F4C1AC004CDED6 /* UIIMageView+LoadImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A96CC7B24F4C1AC004CDED6 /* UIIMageView+LoadImage.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		1A96CC5824F46AA2004CDED6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1A96CC3924F46A9D004CDED6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1A96CC4024F46A9D004CDED6;
+			remoteInfo = TopItuneSongs;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1A2FD09624F8413E003E4B46 /* MockURLSessionDataTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MockURLSessionDataTask.swift; path = TopItuneSongsTests/Mocks/MockURLSessionDataTask.swift; sourceTree = SOURCE_ROOT; };
+		1A2FD09824F84AA1003E4B46 /* WeatherAppNetworkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherAppNetworkTests.swift; sourceTree = "<group>"; };
+		1A2FD0A224F95956003E4B46 /* MockedViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MockedViewModel.swift; path = TopItuneSongsTests/Mocks/MockedViewModel.swift; sourceTree = SOURCE_ROOT; };
+		1A2FD0A424F96026003E4B46 /* ListViewCotrollerTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewCotrollerTest.swift; sourceTree = "<group>"; };
+		1A7ECE9624F9AD4400A9DBAC /* ViewModelTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ViewModelTest.swift; path = TopItuneSongsTests/ViewModelTest.swift; sourceTree = SOURCE_ROOT; };
+		1A7ECE9824F9BB5100A9DBAC /* SongTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongTest.swift; sourceTree = "<group>"; };
+		1A7ECE9C24F9E5E800A9DBAC /* XMLParsingTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XMLParsingTest.swift; sourceTree = "<group>"; };
+		1A7ECE9F24F9F13500A9DBAC /* validXml.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = validXml.xml; sourceTree = "<group>"; };
+		1A8F452824F5BDAB003460B0 /* ItunesAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItunesAPI.swift; sourceTree = "<group>"; };
+		1A8F452A24F5CDE0003460B0 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		1A8F452C24F6E6F8003460B0 /* Check Conccectivity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check Conccectivity.swift"; sourceTree = "<group>"; };
+		1A8F452E24F6E834003460B0 /* UIAlertView+Display.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIAlertView+Display.swift"; sourceTree = "<group>"; };
+		1A8F453124F6F05D003460B0 /* TopItuneSongs-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TopItuneSongs-Bridging-Header.h"; sourceTree = "<group>"; };
+		1A8F453224F6F05E003460B0 /* UIColor+Brand.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIColor+Brand.h"; sourceTree = "<group>"; };
+		1A8F453324F6F05E003460B0 /* UIColor+Brand.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Brand.m"; sourceTree = "<group>"; };
+		1A8F453624F703B7003460B0 /* SongsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongsViewModel.swift; sourceTree = "<group>"; };
+		1A8F453824F70BEC003460B0 /* UIFont+Brand.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIFont+Brand.h"; sourceTree = "<group>"; };
+		1A8F453924F70BEC003460B0 /* UIFont+Brand.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIFont+Brand.m"; sourceTree = "<group>"; };
+		1A96CC4124F46A9D004CDED6 /* TopItuneSongs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TopItuneSongs.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A96CC4424F46A9D004CDED6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		1A96CC4824F46A9E004CDED6 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
+		1A96CC4B24F46A9E004CDED6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		1A96CC4D24F46AA2004CDED6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1A96CC5024F46AA2004CDED6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		1A96CC5224F46AA2004CDED6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A96CC5724F46AA2004CDED6 /* TopItuneSongsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TopItuneSongsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A96CC5D24F46AA2004CDED6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A96CC6C24F46CA3004CDED6 /* ItunesApiGatway.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItunesApiGatway.swift; sourceTree = "<group>"; };
+		1A96CC6F24F46D1E004CDED6 /* UrlSession+DataTaskExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UrlSession+DataTaskExtension.swift"; sourceTree = "<group>"; };
+		1A96CC7124F477F2004CDED6 /* Song.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Song.swift; sourceTree = "<group>"; };
+		1A96CC7524F48D18004CDED6 /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		1A96CC7924F4B1B7004CDED6 /* SongTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongTableViewCell.swift; sourceTree = "<group>"; };
+		1A96CC7B24F4C1AC004CDED6 /* UIIMageView+LoadImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIIMageView+LoadImage.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1A96CC3E24F46A9D004CDED6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1A96CC5424F46AA2004CDED6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1A7ECEA124FA009700A9DBAC /* Mocks */ = {
+			isa = PBXGroup;
+			children = (
+				1A2FD09624F8413E003E4B46 /* MockURLSessionDataTask.swift */,
+				1A2FD0A224F95956003E4B46 /* MockedViewModel.swift */,
+			);
+			path = Mocks;
+			sourceTree = "<group>";
+		};
+		1A8F453524F70176003460B0 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				1A8F453624F703B7003460B0 /* SongsViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		1A8F453B24F71324003460B0 /* Objective-C Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				1A8F453224F6F05E003460B0 /* UIColor+Brand.h */,
+				1A8F453324F6F05E003460B0 /* UIColor+Brand.m */,
+				1A8F453824F70BEC003460B0 /* UIFont+Brand.h */,
+				1A8F453924F70BEC003460B0 /* UIFont+Brand.m */,
+			);
+			path = "Objective-C Extensions";
+			sourceTree = "<group>";
+		};
+		1A96CC3824F46A9D004CDED6 = {
+			isa = PBXGroup;
+			children = (
+				1A96CC4324F46A9D004CDED6 /* TopItuneSongs */,
+				1A96CC5A24F46AA2004CDED6 /* TopItuneSongsTests */,
+				1A96CC4224F46A9D004CDED6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1A96CC4224F46A9D004CDED6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1A96CC4124F46A9D004CDED6 /* TopItuneSongs.app */,
+				1A96CC5724F46AA2004CDED6 /* TopItuneSongsTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1A96CC4324F46A9D004CDED6 /* TopItuneSongs */ = {
+			isa = PBXGroup;
+			children = (
+				1A8F453524F70176003460B0 /* ViewModel */,
+				1A96CC6E24F46CF4004CDED6 /* Extensions */,
+				1A96CC6B24F46BDA004CDED6 /* Network */,
+				1A96CC6A24F46AF0004CDED6 /* SupportFiles */,
+				1A96CC6924F46AE6004CDED6 /* Resources */,
+				1A96CC6824F46AD1004CDED6 /* Models */,
+				1A96CC6724F46AC3004CDED6 /* Controllers */,
+				1A96CC6624F46AAE004CDED6 /* Views */,
+			);
+			path = TopItuneSongs;
+			sourceTree = "<group>";
+		};
+		1A96CC5A24F46AA2004CDED6 /* TopItuneSongsTests */ = {
+			isa = PBXGroup;
+			children = (
+				1A7ECEA124FA009700A9DBAC /* Mocks */,
+				1A7ECE9F24F9F13500A9DBAC /* validXml.xml */,
+				1A96CC5D24F46AA2004CDED6 /* Info.plist */,
+				1A2FD09824F84AA1003E4B46 /* WeatherAppNetworkTests.swift */,
+				1A2FD0A424F96026003E4B46 /* ListViewCotrollerTest.swift */,
+				1A7ECE9624F9AD4400A9DBAC /* ViewModelTest.swift */,
+				1A7ECE9824F9BB5100A9DBAC /* SongTest.swift */,
+				1A7ECE9C24F9E5E800A9DBAC /* XMLParsingTest.swift */,
+			);
+			path = TopItuneSongsTests;
+			sourceTree = "<group>";
+		};
+		1A96CC6624F46AAE004CDED6 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				1A96CC7924F4B1B7004CDED6 /* SongTableViewCell.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		1A96CC6724F46AC3004CDED6 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				1A96CC4824F46A9E004CDED6 /* ListViewController.swift */,
+				1A8F452A24F5CDE0003460B0 /* DetailViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		1A96CC6824F46AD1004CDED6 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				1A96CC7124F477F2004CDED6 /* Song.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		1A96CC6924F46AE6004CDED6 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1A96CC4F24F46AA2004CDED6 /* LaunchScreen.storyboard */,
+				1A96CC4A24F46A9E004CDED6 /* Main.storyboard */,
+				1A96CC4D24F46AA2004CDED6 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		1A96CC6A24F46AF0004CDED6 /* SupportFiles */ = {
+			isa = PBXGroup;
+			children = (
+				1A96CC5224F46AA2004CDED6 /* Info.plist */,
+				1A96CC7524F48D18004CDED6 /* SceneDelegate.swift */,
+				1A96CC4424F46A9D004CDED6 /* AppDelegate.swift */,
+			);
+			path = SupportFiles;
+			sourceTree = "<group>";
+		};
+		1A96CC6B24F46BDA004CDED6 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				1A96CC6C24F46CA3004CDED6 /* ItunesApiGatway.swift */,
+				1A8F452824F5BDAB003460B0 /* ItunesAPI.swift */,
+				1A8F452C24F6E6F8003460B0 /* Check Conccectivity.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		1A96CC6E24F46CF4004CDED6 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				1A96CC7B24F4C1AC004CDED6 /* UIIMageView+LoadImage.swift */,
+				1A8F453124F6F05D003460B0 /* TopItuneSongs-Bridging-Header.h */,
+				1A8F453B24F71324003460B0 /* Objective-C Extensions */,
+				1A96CC6F24F46D1E004CDED6 /* UrlSession+DataTaskExtension.swift */,
+				1A8F452E24F6E834003460B0 /* UIAlertView+Display.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1A96CC4024F46A9D004CDED6 /* TopItuneSongs */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1A96CC6024F46AA2004CDED6 /* Build configuration list for PBXNativeTarget "TopItuneSongs" */;
+			buildPhases = (
+				1A96CC3D24F46A9D004CDED6 /* Sources */,
+				1A96CC3E24F46A9D004CDED6 /* Frameworks */,
+				1A96CC3F24F46A9D004CDED6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TopItuneSongs;
+			productName = TopItuneSongs;
+			productReference = 1A96CC4124F46A9D004CDED6 /* TopItuneSongs.app */;
+			productType = "com.apple.product-type.application";
+		};
+		1A96CC5624F46AA2004CDED6 /* TopItuneSongsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1A96CC6324F46AA2004CDED6 /* Build configuration list for PBXNativeTarget "TopItuneSongsTests" */;
+			buildPhases = (
+				1A96CC5324F46AA2004CDED6 /* Sources */,
+				1A96CC5424F46AA2004CDED6 /* Frameworks */,
+				1A96CC5524F46AA2004CDED6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1A96CC5924F46AA2004CDED6 /* PBXTargetDependency */,
+			);
+			name = TopItuneSongsTests;
+			productName = TopItuneSongsTests;
+			productReference = 1A96CC5724F46AA2004CDED6 /* TopItuneSongsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1A96CC3924F46A9D004CDED6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1160;
+				LastUpgradeCheck = 1160;
+				ORGANIZATIONNAME = "___HANADEMAS___";
+				TargetAttributes = {
+					1A96CC4024F46A9D004CDED6 = {
+						CreatedOnToolsVersion = 11.6;
+						LastSwiftMigration = 1160;
+					};
+					1A96CC5624F46AA2004CDED6 = {
+						CreatedOnToolsVersion = 11.6;
+						TestTargetID = 1A96CC4024F46A9D004CDED6;
+					};
+				};
+			};
+			buildConfigurationList = 1A96CC3C24F46A9D004CDED6 /* Build configuration list for PBXProject "TopItuneSongs" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1A96CC3824F46A9D004CDED6;
+			productRefGroup = 1A96CC4224F46A9D004CDED6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1A96CC4024F46A9D004CDED6 /* TopItuneSongs */,
+				1A96CC5624F46AA2004CDED6 /* TopItuneSongsTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1A96CC3F24F46A9D004CDED6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A96CC5124F46AA2004CDED6 /* LaunchScreen.storyboard in Resources */,
+				1A96CC4E24F46AA2004CDED6 /* Assets.xcassets in Resources */,
+				1A96CC4C24F46A9E004CDED6 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1A96CC5524F46AA2004CDED6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A7ECEA024F9F13500A9DBAC /* validXml.xml in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1A96CC3D24F46A9D004CDED6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A8F453A24F70BEC003460B0 /* UIFont+Brand.m in Sources */,
+				1A8F452B24F5CDE0003460B0 /* DetailViewController.swift in Sources */,
+				1A96CC7C24F4C1AC004CDED6 /* UIIMageView+LoadImage.swift in Sources */,
+				1A96CC4924F46A9E004CDED6 /* ListViewController.swift in Sources */,
+				1A8F453424F6F05E003460B0 /* UIColor+Brand.m in Sources */,
+				1A8F452924F5BDAB003460B0 /* ItunesAPI.swift in Sources */,
+				1A96CC7624F48D18004CDED6 /* SceneDelegate.swift in Sources */,
+				1A8F453724F703B7003460B0 /* SongsViewModel.swift in Sources */,
+				1A8F452D24F6E6F8003460B0 /* Check Conccectivity.swift in Sources */,
+				1A8F452F24F6E835003460B0 /* UIAlertView+Display.swift in Sources */,
+				1A96CC7024F46D1E004CDED6 /* UrlSession+DataTaskExtension.swift in Sources */,
+				1A96CC7A24F4B1B7004CDED6 /* SongTableViewCell.swift in Sources */,
+				1A96CC6D24F46CA3004CDED6 /* ItunesApiGatway.swift in Sources */,
+				1A96CC4524F46A9D004CDED6 /* AppDelegate.swift in Sources */,
+				1A96CC7224F477F2004CDED6 /* Song.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1A96CC5324F46AA2004CDED6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A7ECE9924F9BB5100A9DBAC /* SongTest.swift in Sources */,
+				1A2FD09924F84AA1003E4B46 /* WeatherAppNetworkTests.swift in Sources */,
+				1A7ECE9724F9AD4400A9DBAC /* ViewModelTest.swift in Sources */,
+				1A2FD09724F8413E003E4B46 /* MockURLSessionDataTask.swift in Sources */,
+				1A2FD0A524F96026003E4B46 /* ListViewCotrollerTest.swift in Sources */,
+				1A7ECE9D24F9E5E800A9DBAC /* XMLParsingTest.swift in Sources */,
+				1A2FD0A324F95956003E4B46 /* MockedViewModel.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		1A96CC5924F46AA2004CDED6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1A96CC4024F46A9D004CDED6 /* TopItuneSongs */;
+			targetProxy = 1A96CC5824F46AA2004CDED6 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		1A96CC4A24F46A9E004CDED6 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1A96CC4B24F46A9E004CDED6 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		1A96CC4F24F46AA2004CDED6 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1A96CC5024F46AA2004CDED6 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1A96CC5E24F46AA2004CDED6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		1A96CC5F24F46AA2004CDED6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1A96CC6124F46AA2004CDED6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = CNM3RPY7XP;
+				INFOPLIST_FILE = TopItuneSongs/SupportFiles/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = HANABELETE.TopItuneSongs.com;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "TopItuneSongs/Extensions/TopItuneSongs-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		1A96CC6224F46AA2004CDED6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = CNM3RPY7XP;
+				INFOPLIST_FILE = TopItuneSongs/SupportFiles/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = HANABELETE.TopItuneSongs;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "TopItuneSongs/Extensions/TopItuneSongs-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		1A96CC6424F46AA2004CDED6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = CNM3RPY7XP;
+				INFOPLIST_FILE = TopItuneSongsTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = HANABELETE.TopItuneSongsTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "TopItuneSongs/Extensions/TopItuneSongs-Bridging-Header.h";
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TopItuneSongs.app/TopItuneSongs";
+			};
+			name = Debug;
+		};
+		1A96CC6524F46AA2004CDED6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = CNM3RPY7XP;
+				INFOPLIST_FILE = TopItuneSongsTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = HANABELETE.TopItuneSongsTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "TopItuneSongs/Extensions/TopItuneSongs-Bridging-Header.h";
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TopItuneSongs.app/TopItuneSongs";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1A96CC3C24F46A9D004CDED6 /* Build configuration list for PBXProject "TopItuneSongs" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1A96CC5E24F46AA2004CDED6 /* Debug */,
+				1A96CC5F24F46AA2004CDED6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1A96CC6024F46AA2004CDED6 /* Build configuration list for PBXNativeTarget "TopItuneSongs" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1A96CC6124F46AA2004CDED6 /* Debug */,
+				1A96CC6224F46AA2004CDED6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1A96CC6324F46AA2004CDED6 /* Build configuration list for PBXNativeTarget "TopItuneSongsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1A96CC6424F46AA2004CDED6 /* Debug */,
+				1A96CC6524F46AA2004CDED6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1A96CC3924F46A9D004CDED6 /* Project object */;
+}

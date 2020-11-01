@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+		<id>https://itunes.apple.com/us/rss/topsongs/limit=10/xml</id><title>iTunes Store: Top Songs</title><updated>2020-08-28T18:08:57-07:00</updated><link rel="alternate" type="text/html" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=us&amp;id=1&amp;popId=1"/><link rel="self" href="https://itunes.apple.com/us/rss/topsongs/limit=10/xml"/><icon>http://itunes.apple.com/favicon.ico</icon><author><name>iTunes Store</name><uri>http://www.apple.com/itunes/</uri></author><rights>Copyright 2008 Apple Inc.</rights>
+		
+			<entry>
+				<updated>2020-08-28T18:08:57-07:00</updated>
+				
+					<id im:id="1527793042">https://music.apple.com/us/album/dynamite/1527793040?i=1527793042&amp;uo=2</id>
+				
+					<title>Dynamite - BTS</title>
+				
+					
+				
+					<im:name>Dynamite</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/us/album/dynamite/1527793040?i=1527793042&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="51" term="K-Pop" scheme="https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2" label="K-Pop"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/02/00/5a/02005a7f-ae65-0c2c-a9e0-ba00627d6e6b/mzaf_5529373340235459142.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/us/artist/bts/883131348?uo=2">BTS</im:artist>
+				
+					<im:price amount="0.69000" currency="USD">$0.69</im:price>
+				
+					<im:image height="55">https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/ad/5b/39/ad5b394f-1dbd-eacb-e9b0-a8fed8b9f16a/195497194223.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/ad/5b/39/ad5b394f-1dbd-eacb-e9b0-a8fed8b9f16a/195497194223.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/ad/5b/39/ad5b394f-1dbd-eacb-e9b0-a8fed8b9f16a/195497194223.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 BigHit Entertainment</rights>
+				
+					<im:releaseDate label="August 21, 2020">2020-08-21T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Dynamite - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/us/album/dynamite-single/1527793040?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/us/album/dynamite/1527793040?i=1527793042&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;BTS - Dynamite  artwork&quot; src=&quot;https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/ad/5b/39/ad5b394f-1dbd-eacb-e9b0-a8fed8b9f16a/195497194223.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/us/album/dynamite/1527793040?i=1527793042&amp;uo=2&quot;&gt;Dynamite&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/us/album/dynamite-single/1527793040?uo=2&quot;&gt;Dynamite - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/us/artist/bts/883131348?uo=2&quot;&gt;BTS&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2&quot;&gt;K-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $0.69
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; August 21, 2020
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 BigHit Entertainment&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-08-28T18:08:57-07:00</updated>
+				
+					<id im:id="1529523222">https://music.apple.com/us/album/dynamite-tropical-remix/1529523216?i=1529523222&amp;uo=2</id>
+				
+					<title>Dynamite (Tropical Remix) - BTS</title>
+				
+					
+				
+					<im:name>Dynamite (Tropical Remix)</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/us/album/dynamite-tropical-remix/1529523216?i=1529523222&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="51" term="K-Pop" scheme="https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2" label="K-Pop"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/e5/fe/75/e5fe75b5-d2f6-0873-d076-c1fd33d3603e/mzaf_6619495476325225544.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/us/artist/bts/883131348?uo=2">BTS</im:artist>
+				
+					<im:price amount="0.69000" currency="USD">$0.69</im:price>
+				
+					<im:image height="55">https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/7d/70/1b/7d701b76-08cf-bd6f-d545-60240e019373/195497152599.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/7d/70/1b/7d701b76-08cf-bd6f-d545-60240e019373/195497152599.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/7d/70/1b/7d701b76-08cf-bd6f-d545-60240e019373/195497152599.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 BigHit Entertainment</rights>
+				
+					<im:releaseDate label="August 28, 2020">2020-08-28T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Dynamite (Tropical Remix) - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/us/album/dynamite-tropical-remix-single/1529523216?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/us/album/dynamite-tropical-remix/1529523216?i=1529523222&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;BTS - Dynamite (Tropical Remix)  artwork&quot; src=&quot;https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/7d/70/1b/7d701b76-08cf-bd6f-d545-60240e019373/195497152599.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/us/album/dynamite-tropical-remix/1529523216?i=1529523222&amp;uo=2&quot;&gt;Dynamite (Tropical Remix)&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/us/album/dynamite-tropical-remix-single/1529523216?uo=2&quot;&gt;Dynamite (Tropical Remix) - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/us/artist/bts/883131348?uo=2&quot;&gt;BTS&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2&quot;&gt;K-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $0.69
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; August 28, 2020
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 BigHit Entertainment&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-08-28T18:08:57-07:00</updated>
+				
+					<id im:id="1529336929">https://music.apple.com/us/album/ice-cream/1529336927?i=1529336929&amp;uo=2</id>
+				
+					<title>Ice Cream - BLACKPINK &amp; Selena Gomez</title>
+				
+					
+				
+					<im:name>Ice Cream</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/us/album/ice-cream/1529336927?i=1529336929&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="51" term="K-Pop" scheme="https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2" label="K-Pop"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/85/2e/41/852e41fc-b6ea-225f-984a-87223c873fc6/mzaf_8284986602021867736.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/us/artist/blackpink/1141774019?uo=2">BLACKPINK &amp; Selena Gomez</im:artist>
+				
+					<im:price amount="1.29000" currency="USD">$1.29</im:price>
+				
+					<im:image height="55">https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/76/fc/d0/76fcd004-d329-2ce0-97f3-eb17baa220bc/20UMGIM70903.rgb.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/76/fc/d0/76fcd004-d329-2ce0-97f3-eb17baa220bc/20UMGIM70903.rgb.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/76/fc/d0/76fcd004-d329-2ce0-97f3-eb17baa220bc/20UMGIM70903.rgb.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 YG Entertainment, distributed through Interscope Records</rights>
+				
+					<im:releaseDate label="August 28, 2020">2020-08-28T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Ice Cream - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/us/album/ice-cream-single/1529336927?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/us/album/ice-cream/1529336927?i=1529336929&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;BLACKPINK &amp; Selena Gomez - Ice Cream  artwork&quot; src=&quot;https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/76/fc/d0/76fcd004-d329-2ce0-97f3-eb17baa220bc/20UMGIM70903.rgb.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/us/album/ice-cream/1529336927?i=1529336929&amp;uo=2&quot;&gt;Ice Cream&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/us/album/ice-cream-single/1529336927?uo=2&quot;&gt;Ice Cream - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/us/artist/blackpink/1141774019?uo=2&quot;&gt;BLACKPINK &amp;amp; Selena Gomez&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2&quot;&gt;K-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $1.29
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; August 28, 2020
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 YG Entertainment, distributed through Interscope Records&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-08-28T18:08:57-07:00</updated>
+				
+					<id im:id="1529518496">https://music.apple.com/us/album/dynamite-poolside-remix/1529518495?i=1529518496&amp;uo=2</id>
+				
+					<title>Dynamite (Poolside Remix) - BTS</title>
+				
+					
+				
+					<im:name>Dynamite (Poolside Remix)</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/us/album/dynamite-poolside-remix/1529518495?i=1529518496&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="51" term="K-Pop" scheme="https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2" label="K-Pop"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/75/cb/85/75cb8573-7964-3732-ef96-42c0a4b91ee1/mzaf_11700428530820084874.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/us/artist/bts/883131348?uo=2">BTS</im:artist>
+				
+					<im:price amount="0.69000" currency="USD">$0.69</im:price>
+				
+					<im:image height="55">https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dc/ef/2c/dcef2cdd-3423-7384-c052-4f264e646e7b/195497153244.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/dc/ef/2c/dcef2cdd-3423-7384-c052-4f264e646e7b/195497153244.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dc/ef/2c/dcef2cdd-3423-7384-c052-4f264e646e7b/195497153244.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 BigHit Entertainment</rights>
+				
+					<im:releaseDate label="August 28, 2020">2020-08-28T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Dynamite (Poolside Remix) - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/us/album/dynamite-poolside-remix-single/1529518495?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/us/album/dynamite-poolside-remix/1529518495?i=1529518496&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;BTS - Dynamite (Poolside Remix)  artwork&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dc/ef/2c/dcef2cdd-3423-7384-c052-4f264e646e7b/195497153244.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/us/album/dynamite-poolside-remix/1529518495?i=1529518496&amp;uo=2&quot;&gt;Dynamite (Poolside Remix)&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/us/album/dynamite-poolside-remix-single/1529518495?uo=2&quot;&gt;Dynamite (Poolside Remix) - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/us/artist/bts/883131348?uo=2&quot;&gt;BTS&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2&quot;&gt;K-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $0.69
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; August 28, 2020
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 BigHit Entertainment&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-08-28T18:08:57-07:00</updated>
+				
+					<id im:id="1528780893">https://music.apple.com/us/album/dynamite-edm-remix/1528780885?i=1528780893&amp;uo=2</id>
+				
+					<title>Dynamite (EDM Remix) - BTS</title>
+				
+					
+				
+					<im:name>Dynamite (EDM Remix)</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/us/album/dynamite-edm-remix/1528780885?i=1528780893&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="51" term="K-Pop" scheme="https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2" label="K-Pop"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/7b/73/72/7b73724d-015b-43b7-5278-3b201254bc8b/mzaf_13478009216048152222.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/us/artist/bts/883131348?uo=2">BTS</im:artist>
+				
+					<im:price amount="0.69000" currency="USD">$0.69</im:price>
+				
+					<im:image height="55">https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/72/fc/9c/72fc9c6f-8010-e2de-e571-b8e4a5696b9c/195497104604.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/72/fc/9c/72fc9c6f-8010-e2de-e571-b8e4a5696b9c/195497104604.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/72/fc/9c/72fc9c6f-8010-e2de-e571-b8e4a5696b9c/195497104604.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 BigHit Entertainment</rights>
+				
+					<im:releaseDate label="August 24, 2020">2020-08-24T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Dynamite (EDM Remix) - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/us/album/dynamite-edm-remix-single/1528780885?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/us/album/dynamite-edm-remix/1528780885?i=1528780893&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;BTS - Dynamite (EDM Remix)  artwork&quot; src=&quot;https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/72/fc/9c/72fc9c6f-8010-e2de-e571-b8e4a5696b9c/195497104604.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/us/album/dynamite-edm-remix/1528780885?i=1528780893&amp;uo=2&quot;&gt;Dynamite (EDM Remix)&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/us/album/dynamite-edm-remix-single/1528780885?uo=2&quot;&gt;Dynamite (EDM Remix) - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/us/artist/bts/883131348?uo=2&quot;&gt;BTS&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2&quot;&gt;K-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $0.69
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; August 24, 2020
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 BigHit Entertainment&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-08-28T18:08:57-07:00</updated>
+				
+					<id im:id="1527044502">https://music.apple.com/us/album/people-so-stupid/1527044500?i=1527044502&amp;uo=2</id>
+				
+					<title>People So Stupid - Tom MacDonald</title>
+				
+					
+				
+					<im:name>People So Stupid</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/us/album/people-so-stupid/1527044500?i=1527044502&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="18" term="Hip Hop/Rap" scheme="https://music.apple.com/us/genre/music-hip-hop-rap/id18?uo=2" label="Hip-Hop/Rap"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/83/b5/de/83b5dec9-cfe9-5c1f-9917-33a5c39aa149/mzaf_3805127317678103823.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/us/artist/tom-macdonald/76531581?uo=2">Tom MacDonald</im:artist>
+				
+					<im:price amount="0.99000" currency="USD">$0.99</im:price>
+				
+					<im:image height="55">https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/e3/20/89/e32089ad-382a-6ce7-5de4-f27dc340c588/859741310103_cover.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/e3/20/89/e32089ad-382a-6ce7-5de4-f27dc340c588/859741310103_cover.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/20/89/e32089ad-382a-6ce7-5de4-f27dc340c588/859741310103_cover.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 Tom MacDonald</rights>
+				
+					<im:releaseDate label="August 21, 2020">2020-08-21T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>People So Stupid - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/us/album/people-so-stupid-single/1527044500?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/us/album/people-so-stupid/1527044500?i=1527044502&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Tom MacDonald - People So Stupid  artwork&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/20/89/e32089ad-382a-6ce7-5de4-f27dc340c588/859741310103_cover.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/us/album/people-so-stupid/1527044500?i=1527044502&amp;uo=2&quot;&gt;People So Stupid&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/us/album/people-so-stupid-single/1527044500?uo=2&quot;&gt;People So Stupid - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/us/artist/tom-macdonald/76531581?uo=2&quot;&gt;Tom MacDonald&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/us/genre/music-hip-hop-rap/id18?uo=2&quot;&gt;Hip-Hop/Rap&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $0.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; August 21, 2020
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 Tom MacDonald&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-08-28T18:08:57-07:00</updated>
+				
+					<id im:id="1528423148">https://music.apple.com/us/album/starting-over/1528423147?i=1528423148&amp;uo=2</id>
+				
+					<title>Starting Over - Chris Stapleton</title>
+				
+					
+				
+					<im:name>Starting Over</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/us/album/starting-over/1528423147?i=1528423148&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="6" term="Country" scheme="https://music.apple.com/us/genre/music-country/id6?uo=2" label="Country"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/25/32/d9/2532d92d-075b-bf9f-016c-796b8e3342a5/mzaf_1419605977711983482.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/us/artist/chris-stapleton/1752134?uo=2">Chris Stapleton</im:artist>
+				
+					<im:price amount="1.29000" currency="USD">$1.29</im:price>
+				
+					<im:image height="55">https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/0e/e1/be/0ee1bebf-783b-787e-8f34-0d0df37b3f69/20UMGIM71875.rgb.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0e/e1/be/0ee1bebf-783b-787e-8f34-0d0df37b3f69/20UMGIM71875.rgb.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/0e/e1/be/0ee1bebf-783b-787e-8f34-0d0df37b3f69/20UMGIM71875.rgb.jpg/170x170bb.png</im:image>
+				
+					<rights>A Mercury Nashville Release; &#8471; 2020 Sound Records, under exclusive license to UMG Recordings, Inc.</rights>
+				
+					<im:collection><im:name>Starting Over</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/us/album/starting-over/1528423147?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/us/album/starting-over/1528423147?i=1528423148&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Chris Stapleton - Starting Over  artwork&quot; src=&quot;https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/0e/e1/be/0ee1bebf-783b-787e-8f34-0d0df37b3f69/20UMGIM71875.rgb.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/us/album/starting-over/1528423147?i=1528423148&amp;uo=2&quot;&gt;Starting Over&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/us/album/starting-over/1528423147?uo=2&quot;&gt;Starting Over&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/us/artist/chris-stapleton/1752134?uo=2&quot;&gt;Chris Stapleton&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/us/genre/music-country/id6?uo=2&quot;&gt;Country&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $1.29
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; A Mercury Nashville Release; ℗ 2020 Sound Records, under exclusive license to UMG Recordings, Inc.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-08-28T18:08:57-07:00</updated>
+				
+					<id im:id="1528784806">https://music.apple.com/us/album/dynamite-acoustic-remix/1528784800?i=1528784806&amp;uo=2</id>
+				
+					<title>Dynamite (Acoustic Remix) - BTS</title>
+				
+					
+				
+					<im:name>Dynamite (Acoustic Remix)</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/us/album/dynamite-acoustic-remix/1528784800?i=1528784806&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="51" term="K-Pop" scheme="https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2" label="K-Pop"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/64/f2/f6/64f2f6d4-d799-35a7-9289-6a0c11fd19e5/mzaf_6200220045867796213.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/us/artist/bts/883131348?uo=2">BTS</im:artist>
+				
+					<im:price amount="0.69000" currency="USD">$0.69</im:price>
+				
+					<im:image height="55">https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/26/a3/50/26a35019-5e3c-10f2-7711-7231fbcbfa95/195497102945.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/26/a3/50/26a35019-5e3c-10f2-7711-7231fbcbfa95/195497102945.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/a3/50/26a35019-5e3c-10f2-7711-7231fbcbfa95/195497102945.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 BigHit Entertainment</rights>
+				
+					<im:releaseDate label="August 24, 2020">2020-08-24T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Dynamite (Acoustic Remix) - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/us/album/dynamite-acoustic-remix-single/1528784800?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/us/album/dynamite-acoustic-remix/1528784800?i=1528784806&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;BTS - Dynamite (Acoustic Remix)  artwork&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/a3/50/26a35019-5e3c-10f2-7711-7231fbcbfa95/195497102945.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/us/album/dynamite-acoustic-remix/1528784800?i=1528784806&amp;uo=2&quot;&gt;Dynamite (Acoustic Remix)&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/us/album/dynamite-acoustic-remix-single/1528784800?uo=2&quot;&gt;Dynamite (Acoustic Remix) - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/us/artist/bts/883131348?uo=2&quot;&gt;BTS&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2&quot;&gt;K-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $0.69
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; August 24, 2020
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 BigHit Entertainment&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-08-28T18:08:57-07:00</updated>
+				
+					<id im:id="1527793031">https://music.apple.com/us/album/dynamite-instrumental/1527793030?i=1527793031&amp;uo=2</id>
+				
+					<title>Dynamite (Instrumental) - BTS</title>
+				
+					
+				
+					<im:name>Dynamite (Instrumental)</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/us/album/dynamite-instrumental/1527793030?i=1527793031&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="51" term="K-Pop" scheme="https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2" label="K-Pop"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/c8/d2/cb/c8d2cbd7-683f-64ae-b5aa-442d46abdc8b/mzaf_6546759219610403768.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/us/artist/bts/883131348?uo=2">BTS</im:artist>
+				
+					<im:price amount="0.69000" currency="USD">$0.69</im:price>
+				
+					<im:image height="55">https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/0d/9f/b3/0d9fb32b-81e7-67f8-c1e1-df2b3c663c69/195497058938.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0d/9f/b3/0d9fb32b-81e7-67f8-c1e1-df2b3c663c69/195497058938.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0d/9f/b3/0d9fb32b-81e7-67f8-c1e1-df2b3c663c69/195497058938.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 BigHit Entertainment</rights>
+				
+					<im:releaseDate label="August 21, 2020">2020-08-21T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Dynamite (Instrumental) - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/us/album/dynamite-instrumental-single/1527793030?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/us/album/dynamite-instrumental/1527793030?i=1527793031&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;BTS - Dynamite (Instrumental)  artwork&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0d/9f/b3/0d9fb32b-81e7-67f8-c1e1-df2b3c663c69/195497058938.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/us/album/dynamite-instrumental/1527793030?i=1527793031&amp;uo=2&quot;&gt;Dynamite (Instrumental)&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/us/album/dynamite-instrumental-single/1527793030?uo=2&quot;&gt;Dynamite (Instrumental) - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/us/artist/bts/883131348?uo=2&quot;&gt;BTS&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2&quot;&gt;K-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $0.69
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; August 21, 2020
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 BigHit Entertainment&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2020-08-28T18:08:57-07:00</updated>
+				
+					<id im:id="1527672870">https://music.apple.com/us/album/crazyland/1527672868?i=1527672870&amp;uo=2</id>
+				
+					<title>Crazyland - Eric Church</title>
+				
+					
+				
+					<im:name>Crazyland</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/us/album/crazyland/1527672868?i=1527672870&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="6" term="Country" scheme="https://music.apple.com/us/genre/music-country/id6?uo=2" label="Country"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/63/bd/5e/63bd5e3a-6e00-1f12-3440-ebb33bed094e/mzaf_12780125021481388642.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/us/artist/eric-church/123055194?uo=2">Eric Church</im:artist>
+				
+					<im:price amount="1.29000" currency="USD">$1.29</im:price>
+				
+					<im:image height="55">https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/04/0c/ca/040cca1f-16e4-6c20-fc8e-c2104746304f/20UMGIM69336.rgb.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/04/0c/ca/040cca1f-16e4-6c20-fc8e-c2104746304f/20UMGIM69336.rgb.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/04/0c/ca/040cca1f-16e4-6c20-fc8e-c2104746304f/20UMGIM69336.rgb.jpg/170x170bb.png</im:image>
+				
+					<rights>An EMI Records Nashville Release; &#8471; 2020 BigEC Records LLC, under exclusive license to UMG Recordings, Inc.</rights>
+				
+					<im:releaseDate label="August 28, 2020">2020-08-28T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Crazyland - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/us/album/crazyland-single/1527672868?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/us/album/crazyland/1527672868?i=1527672870&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Eric Church - Crazyland  artwork&quot; src=&quot;https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/04/0c/ca/040cca1f-16e4-6c20-fc8e-c2104746304f/20UMGIM69336.rgb.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/us/album/crazyland/1527672868?i=1527672870&amp;uo=2&quot;&gt;Crazyland&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/us/album/crazyland-single/1527672868?uo=2&quot;&gt;Crazyland - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/us/artist/eric-church/123055194?uo=2&quot;&gt;Eric Church&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/us/genre/music-country/id6?uo=2&quot;&gt;Country&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $1.29
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; August 28, 2020
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; An EMI Records Nashville Release; ℗ 2020 BigEC Records LLC, under exclusive license to UMG Recordings, Inc.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+	</feed>
